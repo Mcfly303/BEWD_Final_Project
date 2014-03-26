@@ -1,0 +1,1 @@
+For my final project I want to build a tumblr-like site specifically for movies
